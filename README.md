@@ -14,11 +14,14 @@
 
 ---
 
-## 🧰 Tecnologías & Badges
+## 🧰 Tecnologías & Herramientas
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-202020?style=for-the-badge&logo=matplotlib)](https://matplotlib.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
 ---
 
@@ -32,9 +35,9 @@
 
 ---
 
-## 📌 Pie de página
+## 📬 Contacto
+¿Tienes feedback, ideas o quieres colaborar? Escríbeme o conéctame por LinkedIn:
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andersanchezmaudo)
 
-Este repo es tu consulta para más información o feedback.  
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/tu_usuario) [![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mailto:tu@email.com)
+[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mailto:sanchezmaudo@gmail.com)
