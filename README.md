@@ -3,6 +3,8 @@
 Soy un apasionado por las **finanzas cuantitativas**, el análisis de datos y el desarrollo de estrategias algorítmicas con Python.
 
 ---
+![Quant Finance](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+
 
 ## 📊 Proyectos destacados
 
