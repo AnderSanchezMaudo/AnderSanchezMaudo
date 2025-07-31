@@ -3,8 +3,6 @@
 Soy un apasionado por las **finanzas cuantitativas**, el análisis de datos y el desarrollo de estrategias algorítmicas con Python.
 
 ---
-![Gráfico financiero](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Candlestick_chart_example.png/800px-Candlestick_chart_example.png)
-
 
 ## 📊 Proyectos destacados
 
