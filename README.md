@@ -23,7 +23,7 @@ Soy un apasionado por las **finanzas cuantitativas**, el análisis de datos y el
 ---
 
 ## 📬 Contacto
-¿Tienes feedback, ideas o quieres colaborar? Escríbeme o conéctame por LinkedIn:
+¿Tienes feedback, ideas o quieres colaborar? Escríbeme o conéctame por LinkedIn o vía email:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andersanchezmaudo)
 
