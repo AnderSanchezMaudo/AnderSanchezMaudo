@@ -1,37 +1,26 @@
-# 🧠 Quant Finance Portfolio
+# 👋 ¡Hola! Soy Ander
 
-¡Bienvenido! Aquí recojo mis proyectos sobre finanzas cuantitativas, trading algorítmico y análisis de riesgo.
+Soy un apasionado por las **finanzas cuantitativas**, el análisis de datos y el desarrollo de estrategias algorítmicas con Python.
 
 ---
 
-## 🚀 Proyectos destacados
+## 📊 Proyectos destacados
 
-| Proyecto | Descripción | Tecnologías |
-|---------|-------------|-------------|
-| Momentum Strategy | Implementación en Python + pandas | Python, pandas, numpy |
-| VaR Monte Carlo | Simulación para cálculo de VaR | Python, scipy |
-| Portfolio Optimization | Optimización de carteras usando Markowitz | cvxpy, PyPortfolioOpt |
+- 🚀 [Momentum Strategy](https://github.com/tuusuario/momentum-strategy) – Estrategia basada en señales de impulso usando pandas y backtesting
+- 📉 [VaR Monte Carlo](https://github.com/tuusuario/var-monte-carlo) – Simulación estocástica para cálculo de Value at Risk
+- 📈 [Portfolio Optimization](https://github.com/tuusuario/portfolio-optimization) – Optimización de carteras usando Markowitz y CVaR
 
 ---
 
 ## 🧰 Tecnologías & Herramientas
 
-[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)](https://jupyter.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-202020?style=for-the-badge&logo=matplotlib)](https://matplotlib.org/)
-[![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
 ---
-
-## 📋 Estructura general
-
-- **Getting Started**: prerequisitos e instalación de ambientes virtuales
-- **Uso**: cómo ejecutar scripts o notebooks
-- **Roadmap**: ideas futuras
-- **Contribuciones**: cómo colaborar
-- **Contacto / Acknowledgments / Licencia**
 
 ---
 
